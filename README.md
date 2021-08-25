@@ -6,16 +6,16 @@ This repository contains a list of projects I will be covering in Python from Ba
 
 ### Beginner
 
-Week 1- Excel Automation
-Week 2- Binary Search Algorithm
-Week 3- Find out, Fibonacci!
-Week 4- What's the word?
+Week 1- Excel Automation<br/>
+Week 2- Binary Search Algorithm<br/>
+Week 3- Find out, Fibonacci!<br/>
+Week 4- What's the word?<br/>
 Week 5- Guessing Game 
 
 ### Intermediate
 
-Week 6- Random Password Generator
-Week 7- CLI Application
+Week 6- Random Password Generator<br/>
+Week 7- CLI Application<br/>
 Week 8- Quiz Application
 
 ### Advance
