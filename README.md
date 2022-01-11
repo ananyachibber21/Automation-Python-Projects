@@ -1,6 +1,6 @@
 # Automation Python Projects
 
-Easy-to-learn Python programming allows firms to automate processes and save time. This is one of the best examples of humans and computers working together in a profitable way. Our monotonous processes can be efficiently and effectively automated by using a computer language like Python.
+<!-- Easy-to-learn Python programming allows firms to automate processes and save time. This is one of the best examples of humans and computers working together in a profitable way. Our monotonous processes can be efficiently and effectively automated by using a computer language like Python.
 
 This repository contains a list of projects I will be covering in Python from Basics to Advance. 
 
@@ -24,4 +24,4 @@ Week 8- Quiz Application
 
 *Note: Many more projects related to python automation will be added along with time and relevant skills.*
 
-Happy Learning :)
+Happy Learning :) -->
